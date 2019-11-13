@@ -1,2 +1,2 @@
 # TelegramBotPhotoSender
-python script 
+Этот скрипт работает с pyTelegramBotAPI. Его можно запустить в cron для автопостинга рандомных картинок из папки в паблик, к примеру на роутере с прошивкой padavan.  
